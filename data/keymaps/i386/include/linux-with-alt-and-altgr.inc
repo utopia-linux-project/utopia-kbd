@@ -27,3 +27,5 @@ altgr keycode  81 = Hex_3
 altgr keycode  82 = Hex_0
 altgr keycode  96 = Hex_F
 altgr keycode  98 = Hex_B
+
+altgr keycode  83 = Codepoint_Dot

@@ -504,35 +504,36 @@ static const char *const shift_syms[] = {
 };
 
 /*
- * Keysyms whose KTYP is KT_ASCII.
+ * Keysyms whose KTYP is KT_CODEPOINT.
  */
-static const char *const ascii_syms[] = {
-	"Ascii_0",
-	"Ascii_1",
-	"Ascii_2",
-	"Ascii_3",
-	"Ascii_4",
-	"Ascii_5",
-	"Ascii_6",
-	"Ascii_7",
-	"Ascii_8",
-	"Ascii_9",
-	"Hex_0",
-	"Hex_1",
-	"Hex_2",
-	"Hex_3",
-	"Hex_4",
-	"Hex_5",
-	"Hex_6",
-	"Hex_7",
-	"Hex_8",
-	"Hex_9",
-	"Hex_A",
-	"Hex_B",
-	"Hex_C",
-	"Hex_D",
-	"Hex_E",
-	"Hex_F"
+static const char *const codepoint_syms[] = {
+	"Codepoint_0",
+	"Codepoint_1",
+	"Codepoint_2",
+	"Codepoint_3",
+	"Codepoint_4",
+	"Codepoint_5",
+	"Codepoint_6",
+	"Codepoint_7",
+	"Codepoint_8",
+	"Codepoint_9",
+	"Codepoint_Hex_0",
+	"Codepoint_Hex_1",
+	"Codepoint_Hex_2",
+	"Codepoint_Hex_3",
+	"Codepoint_Hex_4",
+	"Codepoint_Hex_5",
+	"Codepoint_Hex_6",
+	"Codepoint_Hex_7",
+	"Codepoint_Hex_8",
+	"Codepoint_Hex_9",
+	"Codepoint_Hex_A",
+	"Codepoint_Hex_B",
+	"Codepoint_Hex_C",
+	"Codepoint_Hex_D",
+	"Codepoint_Hex_E",
+	"Codepoint_Hex_F",
+	"Codepoint_Dot"
 };
 
 /*

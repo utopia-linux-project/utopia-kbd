@@ -83,6 +83,7 @@ altgr alt keycode  79 = Ascii_1
 altgr alt keycode  80 = Ascii_2
 altgr alt keycode  81 = Ascii_3
 altgr alt keycode  82 = Ascii_0
+altgr alt keycode  83 = Codepont_Dot
 #
 altgr alt keycode 103 = KeyboardSignal
 altgr alt keycode 105 = Decr_Console

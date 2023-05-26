@@ -46,7 +46,7 @@ const syms_entry syms[] = {
 	E(cur_syms),    /* KT_CUR */
 	E(shift_syms),  /* KT_SHIFT */
 	{ 0, 0 },       /* KT_META */
-	E(ascii_syms),  /* KT_ASCII */
+	E(codepoint_syms),  /* KT_CODEPOINT */
 	E(lock_syms),   /* KT_LOCK */
 	{ 0, 0 },       /* KT_LETTER */
 	E(sticky_syms), /* KT_SLOCK */
