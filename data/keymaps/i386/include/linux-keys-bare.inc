@@ -122,6 +122,7 @@ alt keycode  79 = Ascii_1
 alt keycode  80 = Ascii_2
 alt keycode  81 = Ascii_3
 alt keycode  82 = Ascii_0
+alt keycode  83 = Codepoint_Dot
 #
 # The four cursor keys
 #

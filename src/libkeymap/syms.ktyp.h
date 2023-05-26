@@ -504,9 +504,9 @@ static const char *const shift_syms[] = {
 };
 
 /*
- * Keysyms whose KTYP is KT_ASCII.
+ * Keysyms whose KTYP is KT_CODEPOINT.
  */
-static const char *const ascii_syms[] = {
+static const char *const codepoint_syms[] = {
 	"Ascii_0",
 	"Ascii_1",
 	"Ascii_2",
@@ -532,7 +532,8 @@ static const char *const ascii_syms[] = {
 	"Hex_C",
 	"Hex_D",
 	"Hex_E",
-	"Hex_F"
+	"Hex_F",
+	"Codepoint_Dot"
 };
 
 /*
